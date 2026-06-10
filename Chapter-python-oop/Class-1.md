@@ -1,6 +1,5 @@
-# Class-1:Rabbil Vai
 
-### Key points
+## Key points
 
 - class(A blueprint)
 - object (Class ke bastobayito kora)
@@ -11,7 +10,7 @@
 - Plymorphism
 
 
-### Use case
+## Use case
 - Reusable
 - Real-world Entities (Expence manager,Product managing)
 - Flexibility
